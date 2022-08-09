@@ -5,5 +5,5 @@ while i < 10:
     i += 1
     print(i)
 
-for x in range(10):
+for x in range(1, 11):
     print(x)
